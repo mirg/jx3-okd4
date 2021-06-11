@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: "apps.okd4.cloud.poland.asseco.corp"
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
